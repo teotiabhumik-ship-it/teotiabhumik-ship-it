@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My Git Koi">
+</p>
+
 <!--
 **teotiabhumik-ship-it/teotiabhumik-ship-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- name: git-profile-koi
-  uses: yalongwastaken/git-koi@v1.0.2
