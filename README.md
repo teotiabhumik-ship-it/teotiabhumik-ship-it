@@ -24,7 +24,7 @@
   <table>
     <tr>
       <td align="center">
-        <img src="koi/koi.gif" width="220" alt="My Git Koi" /><br />
+        <img src="koi/koi.gif" width="256" alt="My Git Koi" /><br />
         <sub><em>Live generative koi pond reflecting daily contribution ripples · updated every midnight UTC</em></sub>
       </td>
     </tr>
